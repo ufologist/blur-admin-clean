@@ -51,3 +51,7 @@ src/                              -- [项目结构](http://akveo.github.io/blur-
             |── baWizard/         -- 向导
             └── progressBarRound/ -- 圆形进度条
 ```
+
+## TODO
+
+* 添加 [ocLazyLoad](https://github.com/ocombe/ocLazyLoad "Lazy load modules & components in AngularJS") 支持
